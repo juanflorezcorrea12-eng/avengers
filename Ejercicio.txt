@@ -44,7 +44,8 @@ voz.Rate = 0     ' velocidad: -10 (lento) a 10 (rapido)
 voz.Volume = 0 
 
 voz.Speak Base64ToString("TGFzIHNpZ3VpZW50ZXMgcGVyc29uYXMgcmVhbGl6YXJvbiBlbCBlamVyY2ljaW8gY29ycmVjdGFtZW50ZTo=")
-voz.Speak "Jose Velez alias el profe" 
+voz.Speak "Jose Velez alias el profe"   
+voz.Speak "anonimato avengers hulk" 
 voz.Speak "jj capitán america" 
 voz.Speak "Santiago iroman" 
 voz.Speak Base64ToString("U2kgbm8gZXNjdWNobyBzdSBub21icmUsIGRlYmUgcmVhbGl6YXIgZWwgZWplcmNpY2lvIG90cmEgdmV6")
